@@ -1,0 +1,12 @@
+polmer premicne plosce  2r = (19.0 +/- 0.2) cm 
+razmik med ploscama d = (0.51 +/- 0.01) cm
+rocici tehtnice sta enaki, napaka odcitka napetosti je +/- 100 V
+
+masa [g]  napetost [V]
+ 0.50       1003
+ 1.00       1667
+ 1.50       1702
+ 2.00       2119
+ 2.50       2396
+ 3.00       2582
+ 3.50       2537
